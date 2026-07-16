@@ -23,4 +23,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0234-palindrome-linked-list](https://github.com/vaishnaviupatil0431-bit/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/vaishnaviupatil0431-bit/Leetcode/tree/main/0001-two-sum/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/vaishnaviupatil0431-bit/Leetcode/tree/main/0001-two-sum/) | Easy |
 <!---LeetCode Topics End-->
